@@ -9,7 +9,7 @@
 
 目前 fork 包含静態網站、作品／資源頁、素材與部分獨立 API／工具來源。 工坊尚未把它改為通用白標模板，也未授予重用所有品牌／影像素材的額外權利或部署新的網站。
 
-工坊 Fork：上游產品／授權來源為 [Hao0321/Hao0321-Studio-WEB](https://github.com/Hao0321/Hao0321-Studio-WEB)；本次協作的 Issue／PR 送到 **FreeTWAI-AI/Hao0321-Studio-WEB**，不是自動送往上游。
+工坊 Fork：上游產品／授權來源為 [Hao0321/Hao0321-Studio-WEB](https://github.com/Hao0321/Hao0321-Studio-WEB)；本次協作的 Issue／PR 送到 **FreeTWAI/Hao0321-Studio-WEB**，不是自動送往上游。
 
 先讀本倉 README、CONTRIBUTING、現有上游產品／授權說明，以及受影響目錄的 AGENTS。Issue 的最新討論與 PR 才是任務／審查紀錄，平台摘要只是索引。
 
@@ -29,9 +29,9 @@
 
 ### 接手與交付
 
-1. 讀[目前 Issues](https://github.com/FreeTWAI-AI/Hao0321-Studio-WEB/issues)與[已開 PR](https://github.com/FreeTWAI-AI/Hao0321-Studio-WEB/pulls)，確認範圍、完成條件、既有認領與相依工作。
+1. 讀[目前 Issues](https://github.com/FreeTWAI/Hao0321-Studio-WEB/issues)與[已開 PR](https://github.com/FreeTWAI/Hao0321-Studio-WEB/pulls)，確認範圍、完成條件、既有認領與相依工作。
 2. 一般社群貢獻先留言提出認領範圍，讓維護者確認；若當前對話已獲明確派工，沿用授權直接做，不再發明確認關卡。不要自行發送訊息或建立 Issue，除非任務已授權。
-3. 使用自己的 fork／工作分支或已授權分支。PR 目標為 `FreeTWAI-AI/Hao0321-Studio-WEB` 的目前預設分支 `main`；不自動 force-push、合併、發版或擴大外部操作。
+3. 使用自己的 fork／工作分支或已授權分支。PR 目標為 `FreeTWAI/Hao0321-Studio-WEB` 的目前預設分支 `main`；不自動 force-push、合併、發版或擴大外部操作。
 4. PR 附原 Issue、前後行為、檔案範圍、實跑命令／結果與未驗證部分；交接列 commit、下一步及真正卡點。保留真實 GitHub 作者、review 與 merged SHA，不把未驗證 slug、點讚或使用 AI 轉成 XP／報酬／職務證明。
 
 ### 驗證
