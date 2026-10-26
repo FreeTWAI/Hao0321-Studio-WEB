@@ -14,3 +14,5 @@ dist/
 
 # Claude Code local config (may contain secrets / tokens)
 .claude/settings.local.json
+playwright-report/
+test-results/
